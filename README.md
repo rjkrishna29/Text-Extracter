@@ -39,13 +39,13 @@ sudo apt install gnome-screenshot tesseract-ocr xclip libnotify-bin
 2. **Make the script executable:**
 
    ```bash
-   chmod +x screenshot_ocr.sh
+   chmod +x tess.sh
    ```
 
 3. **Move it to a global path (optional):**
 
    ```bash
-   sudo mv screenshot_ocr.sh /usr/local/bin/screenshot-ocr
+   sudo mv tess.sh /usr/local/bin/screenshot-ocr
    ```
 
 4. **Create a folder for screenshots (if not auto-created):**
