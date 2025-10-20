@@ -116,7 +116,4 @@ If you’d like to improve or extend this tool:
 
 ```
 
----
 
-Would you like me to **add a GitHub-style badge section** at the top (like “Made with Bash”, “License: MIT”, etc.) to make it look even more polished?
-```
