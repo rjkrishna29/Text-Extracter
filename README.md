@@ -1,4 +1,4 @@
-````markdown
+
 # 🖼️ Screenshot OCR Shortcut Tool
 
 A simple and fast **Bash script** that lets you **take a screenshot**, **extract text using OCR (Tesseract)**, **copy it to your clipboard**, and **auto-clean temporary files** — all with a single keyboard shortcut! ⚡
