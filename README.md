@@ -118,7 +118,3 @@ Want to make it even better?
 
 💡 *A simple productivity booster for developers — extract text instantly from any part of your screen!* 🚀
 
-
-
-Would you like me to add a **screenshot preview section** (with a placeholder like `/assets/demo.png`) so your GitHub README looks more visual?
-```
