@@ -114,6 +114,5 @@ If you’d like to improve or extend this tool:
 
 > 💡 *A productivity booster for developers — extract text instantly from any screen!*
 
-```
 
 
